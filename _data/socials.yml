@@ -21,12 +21,10 @@
 # ieee_id: # your ieeexplore.ieee.org/author/id
 # inspirehep_id:  # Inspire HEP author ID
 # instagram_id: # your instagram id
-# kaggle_id: # your kaggle id
 # keybase_username: # your keybase user name
 # lastfm_id: # your lastfm id
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
-linkedin_username: sumin-seo-781371176 # your LinkedIn user name
 # mastodon_username: # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
@@ -35,8 +33,10 @@ linkedin_username: sumin-seo-781371176 # your LinkedIn user name
 # publons_id: # your ID on Publons
 # quora_username: # your Quora username
 # research_gate_profile: # your profile on ResearchGate
-rss_icon: false # comment this line to hide the RSS icon
+# rss_icon: false # comment this line to hide the RSS icon
 scholar_userid: QzzhNTYAAAAJ # your Google Scholar ID
+linkedin_username: sumin-seo-781371176 # your LinkedIn user name
+kaggle_id: soochem # your kaggle id
 # scopus_id: # your profile on Scopus
 # semanticscholar_id: # your Semantic Scholar ID
 # spotify_id: # your spotify id

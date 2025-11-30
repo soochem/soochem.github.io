@@ -1,3 +1,19 @@
-"inkyu":
+"kang":
+  - firstname: ["Jaewoo"]
+    url: https://scholar.google.com/citations?user=RaBZafQAAAAJ&hl=ko
+
+"park":
+  - firstname: ["Sang Min"]
+    url: https://scholar.google.com/citations?user=Km1BklMAAAAJ&hl=ko
+
+"yoon":
+  - firstname: ["Wonjin"]
+    url: https://scholar.google.com/citations?user=7xuGLSoAAAAJ&hl=ko
+
+"lee":
   - firstname: ["In Kyu"]
     url: https://inqlee0704.github.io/inkyulee/
+
+"kim":
+  - firstname: ["Tae Soo"]
+    url: https://scholar.google.com/citations?user=BIVP9OsAAAAJ&hl=en

@@ -37,4 +37,4 @@ I love all kinds of movies and fictions, including indie films and science ficti
 
 > <p><em>"The only thing I do know… is that we have to be kind, especially when we don't know what's going on."</em></p>
 >
-> — <em>Everything Everywhere All at Once</em> (2021)<br>
+> — <em>Everything Everywhere All at Once</em> (2022)<br>
