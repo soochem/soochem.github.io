@@ -2,8 +2,7 @@
 layout: about
 title: about
 permalink: /
-# subtitle: PhD Student at <a href='https://mcml.ai/'>MCML</a>
-# subtitle: <a href='#'>Medipixel Inc.</a>
+subtitle: PhD Student at <a href='https://mcml.ai/'>MCML</a>
 
 profile:
   align: right
