@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Machine Learning Researcher at <a href='https://medipixel.io/en/'>Medipixel Inc.</a>
+# subtitle: PhD Student at <a href='https://mcml.ai/'>MCML</a>
 # subtitle: <a href='#'>Medipixel Inc.</a>
 
 profile:
